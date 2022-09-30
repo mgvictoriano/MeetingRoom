@@ -1,0 +1,2 @@
+# MeetingRoom
+Desenvolvimento de uma API com Spring Boot para gerenciar salas de reunião. Foi utilizado o Spring Data para persistência de dados e o banco in-memory H2. No Front End a API foi consumida com SPA escrita em Angular. -- API development with Spring Boot to manage meeting rooms. Spring Data was used for data persistence and the H2 in-memory database. In Front End the API was consumed with SPA code in Angular.

@@ -71,12 +71,12 @@ Start the Spring Boot application.
 
 ## Usage
 
-The API is accessible at http://localhost:8082/api/v1/.
-To get a list of all meeting rooms, send a GET request to /rooms.
-To get the details of a specific room, send a GET request to /rooms/{id}.
-To create a new room, send a POST request to /rooms.
-To update a room, send a PUT request to /rooms/{id}.
-To delete a room, send a DELETE request to /rooms/{id}.
+- The API is accessible at http://localhost:8082/api/v1/.
+- To get a list of all meeting rooms, send a GET request to /rooms.
+- To get the details of a specific room, send a GET request to /rooms/{id}.
+- To create a new room, send a POST request to /rooms.
+- To update a room, send a PUT request to /rooms/{id}.
+- To delete a room, send a DELETE request to /rooms/{id}.
 
 ## Authors
 Michelle Gaia Victoriano

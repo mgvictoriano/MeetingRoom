@@ -41,8 +41,7 @@ To run this application in your local environment, ensure that you have Java 17 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Authors](#authors)
 
 ## Prerequisites
 
